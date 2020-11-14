@@ -1,0 +1,121 @@
+ 
+  @media (max-width:1199px){
+	  
+
+.slider-content h1 {
+    font-size: 40px;
+}
+
+.slider-content p {
+    font-size: 11px;
+    line-height: 25px;
+   
+}	
+
+.slider-content h5 {
+    font-size: 19px;
+    
+} 
+.slide-btn a {
+    padding: 8px 20px;
+   
+}
+.slide-btn a:last-child {
+    padding: 8px 32px;
+    
+}
+.about-area {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.about-area-content .big-title h2 {
+    margin-bottom: 5px;
+}
+ .about-area-content p {
+    font-size: 14px;
+}
+.Do-part p {
+    font-size: 14px;
+    padding-top:0;
+}
+.our-content-items {
+    padding-top: 70px;
+    padding-bottom:70px;
+}
+.tab-content> h3 {
+    font-size: 28px;
+}
+.tab-content p{
+	font-size:14px;
+}
+.team-area .big-title {
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+  }
+ 
+ @media (max-width:991px){
+.top-content {
+    display: block;
+    width: 100%;
+    text-align: center;
+} 
+.top-bar{
+   text-align:center;
+}
+.top-left ul,
+.top-right ul {
+   display:block;
+   
+}
+.top-content{
+	display:block;
+}
+.top-right ul li {
+    margin-left: 5px;
+    margin-right: 5px;
+    display: inline;
+}
+.slider-content h1 {
+    font-size: 25px;
+}
+.about-area {
+    margin-top:0px;
+    
+}
+.slider-content {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+/* slide btn */
+.benar-content-area .slide-btn a{
+	padding:0;
+	font-size:16px;
+	padding:15px 10px;
+	display:block;
+}
+
+ .extra-container{
+	 max-width:850px;
+ }
+.do-othor h4 {
+    font-weight: 600;
+    font-size: 17px;
+    color: #444;
+    padding-bottom: 10px;
+    text-transform: capitalize;
+    /* margin-top: 15px; */
+}
+
+
+
+
+
+
+
+
+
+}
